@@ -24,7 +24,7 @@ A powerful desktop application for converting Markdown to HTML with a modern, us
 
 1. Clone this repository:
 ```bash
-git clone [(https://github.com/jarvismayur/.md-to-.html-Covertor-App-.git)](https://github.com/jarvismayur/.md-to-.html-Covertor-App-.git)
+git clone https://github.com/jarvismayur/.md-to-.html-Covertor-App-.git
 
 ```
 
